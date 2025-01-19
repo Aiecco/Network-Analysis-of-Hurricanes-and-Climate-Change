@@ -12,3 +12,6 @@ ANALYSIS #todo
 - plots for how climate change hashtag changes over time for each hurricane (3 plots) - follow this picture
 
 ![ClimateChangeintime](https://github.com/user-attachments/assets/d4009f42-a57d-42ad-b49f-eb12a369dfb9)
+
+- attractiveness analysis
+- community detection
